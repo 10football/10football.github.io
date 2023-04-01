@@ -859,6 +859,16 @@ section.intro p {
   padding-top: 50px;
 }
 
+section.intro h2 {
+  font-size: 28px;
+  color: #fff;
+  line-height: 30px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  padding: 150px 0;
+  text-align: center;
+}
+
 /*
 ---------------------------------------------
 services
@@ -872,14 +882,6 @@ section.meetings-page {
   padding: 40px 0px 0px 0px;
 }
 
-section.meetings-page h2 {
-  font-size: 28px;
-  color: #fff;
-  line-height: 50px;
-  font-weight: 700;
-  letter-spacing: 0.5px;
-  margin-bottom: 50px;
-}
 
 .meeting-item .thumb {
   padding: 250px 0 0 0;
